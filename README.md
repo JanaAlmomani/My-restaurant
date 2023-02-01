@@ -1,3 +1,3 @@
 # my-restaurant
 Hi from the branch 
-![alt text](/photos/imag.png)
+![alt text](/photos/imag.jpg)
